@@ -26,5 +26,5 @@ Run the following in bash or powershell:
 
 The following screenshot shows you where to load the txt file you generated.
 <div style="text-align:center">
-    <img src='nurbscalculatorscreenshot.png' width='800' height='600' />
+    <img src='nurbscalculatorscreenshot.png' width='800' height='415' />
 </div>
