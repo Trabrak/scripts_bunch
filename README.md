@@ -20,11 +20,11 @@ Run the following in bash or powershell:
 
 <pre>
     <code>
-        python .\extract_bspline_step_for_nurbs_calculator.py "<your_step_file>.stp" '#343' > "<your_output_txt_file>.txt"
+        python .\extract_bspline_step_for_nurbs_calculator.py "your_step_file.stp" '#343' > "your_output_txt_file.txt"
     </code>
 </pre>
 
 The following screenshot shows you where to load the txt file you generated.
 <div style="text-align:center">
-    <img src='scripts_bunch/nurbscalculatorscreenshot.png' width='1440' height='900' />
+    <img src='nurbscalculatorscreenshot.png' width='800' height='600' />
 </div>
